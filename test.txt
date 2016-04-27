@@ -1,3 +1,4 @@
 this is my test file.
 changed in test branch1.
 changed in test branch2.
+changed in test.
